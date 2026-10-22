@@ -1,0 +1,14 @@
+{
+  "client_id": "https://eraycc.github.io/oauth/client-metadata.json",
+  "client_name": "Codex",
+  "redirect_uris": [
+    "http://127.0.0.1:8765/api/v1/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
